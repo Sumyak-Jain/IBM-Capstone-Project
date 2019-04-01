@@ -22,3 +22,14 @@ class B : public A
        cin>>b;
     }
 };
+class C
+{
+    protected:
+    int c;
+    public:
+    void get_c()
+    {
+        std::cout << "Enter the value of c is : " << std::endl;
+        cin>>c;
+    }
+};
