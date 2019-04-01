@@ -10,4 +10,15 @@ class A
        std::cout << "Enter the value of 'a' : " << std::endl;  
        cin>>a;  
     }  
-};  
+}; 
+class B : public A
+{
+    protected:
+    int b;
+    public:
+    void get_b()
+    {
+        std::cout << "Enter the value of 'b' : " << std::endl;
+       cin>>b;
+    }
+};
