@@ -33,3 +33,22 @@ class C
         cin>>c;
     }
 };
+class D : public B, public C
+{
+    protected:
+    int d;
+    public:
+    void mul()
+    {
+         get_a();
+         get_b();
+         get_c();
+         std::cout << "Multiplication of a,b,c is : " <<a*b*c<< std::endl;
+    }
+};
+int main()
+{
+    D d;
+    d.mul();
+    return 0;
+
