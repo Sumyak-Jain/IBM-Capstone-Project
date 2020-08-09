@@ -1,1 +1,1 @@
-# Opening a italian restaurant in Delhi
+# Opening a Chinese restaurant in Delhi
