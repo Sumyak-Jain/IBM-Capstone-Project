@@ -1,1 +1,1 @@
-# Opening a Chinese restaurant in Delhi
+# Where to open a Chinese restaurant in Delhi
