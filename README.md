@@ -1,1 +1,1 @@
-# IBM Applied data science capstone  project.
+# IBM Applied data science capstone  project
